@@ -2,7 +2,7 @@
  
 A collection of Internet of Things projects exploring various sensors, communication protocols, and embedded systems. 
  
-## ?? Projects 
+## Projects 
  
 ### [Water Level Detection](./IOT-Water-Level-Detection) 
 IoT system for monitoring and detecting water levels using sensors. 
