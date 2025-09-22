@@ -1,0 +1,18 @@
+[submodule "IOT-Water-Level-Detection"]
+	path = IOT-Water-Level-Detection
+	url = https://github.com/RahMaisha/IOT-Water-Level-Detection.git
+[submodule "IOT_WaterSensor_with_Arduinu_Basic"]
+	path = IOT_WaterSensor_with_Arduinu_Basic
+	url = https://github.com/RahMaisha/IOT_WaterSensor_with_Arduinu_Basic.git
+[submodule "Communication-between-two-NodeMCU-ESP8266-using-UART-interface"]
+	path = Communication-between-two-NodeMCU-ESP8266-using-UART-interface
+	url = https://github.com/RahMaisha/Communication-between-two-NodeMCU-ESP8266-using-UART-interface.git
+[submodule "CSE_406_LAB03"]
+	path = CSE_406_LAB03
+	url = https://github.com/RahMaisha/CSE_406_LAB03.git
+[submodule "Mesh-Networking-with-NodeMCU-ESP8266-and-painlessMesh"]
+	path = Mesh-Networking-with-NodeMCU-ESP8266-and-painlessMesh
+	url = https://github.com/RahMaisha/Mesh-Networking-with-NodeMCU-ESP8266-and-painlessMesh.git
+[submodule "Comparing-HTTP-CoAP-and-MQTT-Protocols-with-ESP8266"]
+	path = Comparing-HTTP-CoAP-and-MQTT-Protocols-with-ESP8266
+	url = https://github.com/RahMaisha/Comparing-HTTP-CoAP-and-MQTT-Protocols-with-ESP8266.git
