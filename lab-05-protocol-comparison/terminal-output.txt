@@ -1,0 +1,37 @@
+PS C:\Users\Student> cd C:\Users\Student\Desktop\cse\IoTCoAPV2
+PS C:\Users\Student\Desktop\cse\IoTCoAPV2> dir
+
+
+    Directory: C:\Users\Student\Desktop\cse\IoTCoAPV2
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        11/08/2025     10:45                CSE406_CoapServer_v2
+-a----        11/08/2025     11:13           1076 CoapClient.py
+
+
+PS C:\Users\Student\Desktop\cse\IoTCoAPV2> python -m venv .env
+PS C:\Users\Student\Desktop\cse\IoTCoAPV2> .\.env\Scripts\activate
+(.env) PS C:\Users\Student\Desktop\cse\IoTCoAPV2> python .\CoapClient.py
+Traceback (most recent call last):
+  File "C:\Users\Student\Desktop\cse\IoTCoAPV2\CoapClient.py", line 3, in <module>
+    import aiocoap
+ModuleNotFoundError: No module named 'aiocoap'
+(.env) PS C:\Users\Student\Desktop\cse\IoTCoAPV2> pip install aiocoap
+Collecting aiocoap
+  Using cached aiocoap-0.4.14-py3-none-any.whl.metadata (9.6 kB)
+Using cached aiocoap-0.4.14-py3-none-any.whl (241 kB)
+Installing collected packages: aiocoap
+Successfully installed aiocoap-0.4.14
+
+[notice] A new release of pip is available: 25.0.1 -> 25.2
+[notice] To update, run: python.exe -m pip install --upgrade pip
+(.env) PS C:\Users\Student\Desktop\cse\IoTCoAPV2> python .\CoapClient.py
+DEBUG:asyncio:Using proactor: IocpProactor
+DEBUG:coap:Sending request - Token: 8bdf, Remote: <_Connection at 0x197507202f0 on transport <_ProactorDatagramTransport fd=416 read=<_OverlappedFuture pending cb=[_ProactorDatagramTransport._loop_reading()]>>, active>
+DEBUG:coap:Sending message <aiocoap.Message at 0x197506c7230: CON PUT (MID 42401, token 8bdf) remote <_Connection at 0x197507202f0 on transport <_ProactorDatagramTransport fd=416 read=<_OverlappedFuture pending cb=[_ProactorDatagramTransport._loop_reading()]>>, active>, 1 option(s), 1 byte(s) payload>
+DEBUG:coap:Exchange added, message ID: 42401.
+DEBUG:coap:Incoming error [WinError 1232] The network location cannot be reached. For information about network troubleshooting, see Windows Help from <_Connection at 0x197507202f0 on transport <_ProactorDatagramTransport fd=416>, active>
+Failed to send PUT request: Network error: NetworkError
+(.env) PS C:\Users\Student\Desktop\cse\IoTCoAPV2> 
