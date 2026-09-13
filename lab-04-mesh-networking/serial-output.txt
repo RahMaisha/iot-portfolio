@@ -1,0 +1,140 @@
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+Event: Station Mode Connected
+CONNECTION: Event: Station Mode Got IP (IP: 10.76.137.100  Mask: 255.255.255.0  Gateway: 10.76.137.1)
+CONNECTION: New STA connection incoming
+CONNECTION: painlessmesh::Connection: New connection established.
+COMMUNICATION: routePackage(): Recvd from 0: {"nodeId":1163283593,"type":6,"dest":1163277566,"from":1163283593}
+CONNECTION: newConnectionTask():
+CONNECTION: newConnectionTask(): adding 1163283593 now= 6782879
+--> startHere: New Connection, nodeId = 1163283593
+Changed connections
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":6792346,"t1":7813065,"t2":7814276}}
+Adjusted time 7824993. Offset = 1014416
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":8026576,"t1":8031313,"t2":8032481}}
+Adjusted time 8042538. Offset = -786
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: sendSingle(): dest=1163283593 msg=Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+Sent direct message to node 1163283593: Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+CONNECTION: New AP connection incoming
+CONNECTION: painlessmesh::Connection: New connection established.
+COMMUNICATION: routePa
+Changed connections
+CONNECTION: newConnectionTask():
+CONNECTION: newConnectionTask(): adding 3237578269 now= 11583134
+--> startHere: New Connection, nodeId = 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"nodeId":1163283593,"type":6,"dest":1163277566,"from":1163283593}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":4,"dest":1163277566,"from":3237578269,"msg":{"type":1,"t0":123664680}}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":4,"dest":1163277566,"from":3237578269,"msg":{"type":1,"t0":11832662}}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: sendSingle(): dest=1163283593 msg=Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+Sent direct message to node 1163283593: Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: sendSingle(): dest=1163283593 msg=Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+Sent direct message to node 1163283593: Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"nodeId":1163283593,"type":5,"dest":1163277566,"from":1163283593}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: sendSingle(): dest=1163283593 msg=Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+Sent direct message to node 1163283593: Direct hello from node jhgaasdjfhgasjhdgsajhdgasjhdgasjhdgasjhdgasjhdgasjhdgasjdgshdgasjhdgasjhdgsajhdgashdjgsdjgjdgsdhj1163277566
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":0}}
+CONNECTION: scanComplete(): Scan finished
+CONNECTION: scanComplete():-- > Cleared old APs.
+CONNECTION: scanComplete(): num = 38
+CONNECTION: 	found : cse406, -60dBm
+CONNECTION: 	found : cse406, -70dBm
+CONNECTION: 	found : cse406, -72dBm
+CONNECTION: 	Found 3 nodes
+CONNECTION: connectToAP(): Already connected, and no unknown nodes found: scan rate set to slow
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":68043997,"t1":68192890,"t2":68194166}}
+Adjusted time 68262084. Offset = 0
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":68193367,"t1":68207070,"t2":68208146}}
+Adjusted time 68361402. Offset = 0
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":68563010,"t1":68567914,"t2":68569135}}
+Adjusted time 68594336. Offset = -15445
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":68796463,"t1":68815903,"t2":68817100}}
+Adjusted time 68826608. Offset = 14745
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":8,"dest":0,"from":1163283593,"msg":"Na***************************************************************************R H******A1163283593"}
+startHere: 1163277566 Received from 1163283593 msg=Na***************************************************************************R H******A1163283593
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":8,"dest":0,"from":3237578269,"msg":"Hello From Titly 3237578269"}
+startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":69028207,"t1":69129058,"t2":69130292}}
+Adjusted time 69145347. Offset = 0
+COMMUNICATION: routePackage(): Recvd from 1163283593: {"type":4,"dest":1163277566,"from":1163283593,"msg":{"type":2,"t0":69346187,"t1":69351440,"t2":69352593}}
+Adjusted time 69363464. Offset = -112
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":4,"dest":1163277566,"from":3237578269,"msg":{"type":1,"t0":69380109}}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":4,"dest":1163277566,"from":3237578269,"msg":{"type":1,"t0":69631069}}
+COMMUNICATION: routePackage(): Recvd from 3237578269: {"type":4,"dest":1163277566,"from":3237578269,"msg":{"type":1,"t0":69838904}}
+startHere: 1163277566 Received from 3237578269 msg=Hello From startHere: 1163277566 Received from 3237578269 msg=Hello From startHere: 1163277566 Received from 3237578269 msg=Hello From Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
+Titly 3237578269
